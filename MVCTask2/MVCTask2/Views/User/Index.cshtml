@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    int x = 1;
+}
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Age</th>
+            <th scope="col">Email</th>
+            <th scope="col">Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(User u in Model)
+        {
+            <tr>
+                <th scope="row">@(x++)</th>
+                <td>@u.Name</td>
+                <td>@u.Age</td>
+                <td>@u.Email</td>
+                <td><a href ="/User/Details?id=@u.Id">Details</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

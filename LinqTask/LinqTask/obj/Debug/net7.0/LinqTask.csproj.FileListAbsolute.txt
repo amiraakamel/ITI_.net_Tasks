@@ -1,0 +1,14 @@
+D:\amira\ITI Tasks\LinqTask\LinqTask\bin\Debug\net7.0\LinqTask.exe
+D:\amira\ITI Tasks\LinqTask\LinqTask\bin\Debug\net7.0\LinqTask.deps.json
+D:\amira\ITI Tasks\LinqTask\LinqTask\bin\Debug\net7.0\LinqTask.runtimeconfig.json
+D:\amira\ITI Tasks\LinqTask\LinqTask\bin\Debug\net7.0\LinqTask.dll
+D:\amira\ITI Tasks\LinqTask\LinqTask\bin\Debug\net7.0\LinqTask.pdb
+D:\amira\ITI Tasks\LinqTask\LinqTask\obj\Debug\net7.0\LinqTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\amira\ITI Tasks\LinqTask\LinqTask\obj\Debug\net7.0\LinqTask.AssemblyInfoInputs.cache
+D:\amira\ITI Tasks\LinqTask\LinqTask\obj\Debug\net7.0\LinqTask.AssemblyInfo.cs
+D:\amira\ITI Tasks\LinqTask\LinqTask\obj\Debug\net7.0\LinqTask.csproj.CoreCompileInputs.cache
+D:\amira\ITI Tasks\LinqTask\LinqTask\obj\Debug\net7.0\LinqTask.dll
+D:\amira\ITI Tasks\LinqTask\LinqTask\obj\Debug\net7.0\refint\LinqTask.dll
+D:\amira\ITI Tasks\LinqTask\LinqTask\obj\Debug\net7.0\LinqTask.pdb
+D:\amira\ITI Tasks\LinqTask\LinqTask\obj\Debug\net7.0\LinqTask.genruntimeconfig.cache
+D:\amira\ITI Tasks\LinqTask\LinqTask\obj\Debug\net7.0\ref\LinqTask.dll

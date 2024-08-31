@@ -1,0 +1,14 @@
+D:\amira\ITI Tasks\ITI\ITI\bin\Debug\net7.0\ITI.exe
+D:\amira\ITI Tasks\ITI\ITI\bin\Debug\net7.0\ITI.deps.json
+D:\amira\ITI Tasks\ITI\ITI\bin\Debug\net7.0\ITI.runtimeconfig.json
+D:\amira\ITI Tasks\ITI\ITI\bin\Debug\net7.0\ITI.dll
+D:\amira\ITI Tasks\ITI\ITI\bin\Debug\net7.0\ITI.pdb
+D:\amira\ITI Tasks\ITI\ITI\obj\Debug\net7.0\ITI.GeneratedMSBuildEditorConfig.editorconfig
+D:\amira\ITI Tasks\ITI\ITI\obj\Debug\net7.0\ITI.AssemblyInfoInputs.cache
+D:\amira\ITI Tasks\ITI\ITI\obj\Debug\net7.0\ITI.AssemblyInfo.cs
+D:\amira\ITI Tasks\ITI\ITI\obj\Debug\net7.0\ITI.csproj.CoreCompileInputs.cache
+D:\amira\ITI Tasks\ITI\ITI\obj\Debug\net7.0\ITI.dll
+D:\amira\ITI Tasks\ITI\ITI\obj\Debug\net7.0\refint\ITI.dll
+D:\amira\ITI Tasks\ITI\ITI\obj\Debug\net7.0\ITI.pdb
+D:\amira\ITI Tasks\ITI\ITI\obj\Debug\net7.0\ITI.genruntimeconfig.cache
+D:\amira\ITI Tasks\ITI\ITI\obj\Debug\net7.0\ref\ITI.dll
