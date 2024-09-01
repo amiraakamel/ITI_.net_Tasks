@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\MVCTask2.csproj": {}
+    "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\MVCTask2.csproj": {}
   },
   "projects": {
-    "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\MVCTask2.csproj": {
+    "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\MVCTask2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\MVCTask2.csproj",
+        "projectUniqueName": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\MVCTask2.csproj",
         "projectName": "MVCTask2",
-        "projectPath": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\MVCTask2.csproj",
+        "projectPath": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\MVCTask2.csproj",
         "packagesPath": "C:\\Users\\Kimo Store\\.nuget\\packages\\",
-        "outputPath": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\obj\\",
+        "outputPath": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kimo Store\\AppData\\Roaming\\NuGet\\NuGet.Config",

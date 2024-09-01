@@ -4,6 +4,7 @@
 @{
     int x = 1;
 }
+<a href="/User/AddForm" class="btn btn-success">ADD NEW USER</a>
 <table class="table table-hover">
     <thead>
         <tr>
@@ -11,7 +12,7 @@
             <th scope="col">Name</th>
             <th scope="col">Age</th>
             <th scope="col">Email</th>
-            <th scope="col">Details</th>
+            <th scope="col">Handel</th>
         </tr>
     </thead>
     <tbody>
@@ -22,7 +23,10 @@
                 <td>@u.Name</td>
                 <td>@u.Age</td>
                 <td>@u.Email</td>
-                <td><a href ="/User/Details?id=@u.Id">Details</a></td>
+                <td><a href="/User/Details?id=@u.Id">Details</a> |
+                    <a href="/User/EditForm/@u.Id">Edit</a>    |
+                    <a href="/User/Delete/@u.Id">Delete</a>
+                </td>
             </tr>
         }
     </tbody>

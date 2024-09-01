@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CP3S6P/8ad1I0lbdxNqAfFXRFgcj9tNASpzAXpsPTZNHt0FfAecNRuYyyzRdb5RJuuOcpQ5eGXT1iWyAcoS9qg==",
+  "dgSpecHash": "YcOPot/bK8b+AtRs0kAq3/s8BkKwGlScJairoUC+8hekufIyqGGiD0fOwyC8a3Ez8G+9T5V+fVs5u/DsPRS4Hw==",
   "success": true,
-  "projectFilePath": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\MVCTask2.csproj",
+  "projectFilePath": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\MVCTask2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kimo Store\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Kimo Store\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

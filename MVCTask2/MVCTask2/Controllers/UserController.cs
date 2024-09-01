@@ -25,5 +25,60 @@ namespace MVCTask2.Controllers
             }
             return View(user);
         }
+
+        public IActionResult AddForm()
+        {
+            return View();
+        }
+
+        public IActionResult AddToDB(User u)
+        {
+            context.Users.Add(u);
+            context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult EditForm(int id)
+        {
+            User? user = context.Users.SingleOrDefault(u => u.Id == id);
+            if (user == null)
+            {
+                return Content("Invalid Id");
+            }
+            return View(user);
+        }
+
+        [HttpPost]
+        public IActionResult EditToDB(int id, string Name, int Age, string Email, string Password)
+        {
+            User? user = context.Users.SingleOrDefault(u => u.Id == id);
+
+            if (user == null)
+            {
+                return Content("Invalid Id");
+            }
+
+            user.Name = Name;
+            user.Age = Age;
+            user.Email = Email;
+            user.Password = Password;
+
+            context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult Delete(int id) 
+        {
+            User? user = context.Users.SingleOrDefault(user=>user.Id == id);
+
+            if (user == null)
+            {
+                return Content("Invalid Id");
+            }
+
+            context.Users.Remove(user);
+            context.SaveChanges();
+            return RedirectToAction("Index");
+        }
     }
 }

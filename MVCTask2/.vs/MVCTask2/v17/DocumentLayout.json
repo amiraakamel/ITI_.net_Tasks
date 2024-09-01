@@ -1,41 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\amira\\ITI Tasks\\MVCTask2\\",
+  "WorkspaceRootPath": "D:\\amira\\ITI Tasks .net\\MVCTask2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks\\mvctask2\\mvctask2\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks\\mvctask2\\mvctask2\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks\\mvctask2\\mvctask2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks\\mvctask2\\mvctask2\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks\\mvctask2\\mvctask2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks\\mvctask2\\mvctask2\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\views\\user\\editform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\user\\editform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks\\mvctask2\\mvctask2\\models\\mvctask2dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\models\\mvctask2dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\views\\user\\addform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\user\\addform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KII5RFR/User/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks\\mvctask2\\mvctask2\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,10 +39,62 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MVCTask2\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MVCTask2\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAQwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:23:32.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditForm.cshtml",
+              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\EditForm.cshtml",
+              "RelativeDocumentMoniker": "MVCTask2\\Views\\User\\EditForm.cshtml",
+              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\EditForm.cshtml",
+              "RelativeToolTip": "MVCTask2\\Views\\User\\EditForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T10:15:22.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddForm.cshtml",
+              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\AddForm.cshtml",
+              "RelativeDocumentMoniker": "MVCTask2\\Views\\User\\AddForm.cshtml",
+              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\AddForm.cshtml",
+              "RelativeToolTip": "MVCTask2\\Views\\User\\AddForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T09:54:27.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVCTask2\\Models\\User.cs",
+              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Models\\User.cs",
+              "RelativeToolTip": "MVCTask2\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T09:29:24.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Views\\User\\Details.cshtml",
+              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\Details.cshtml",
               "RelativeDocumentMoniker": "MVCTask2\\Views\\User\\Details.cshtml",
-              "ToolTip": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Views\\User\\Details.cshtml",
+              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\Details.cshtml",
               "RelativeToolTip": "MVCTask2\\Views\\User\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAcwA8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -62,101 +103,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Models\\User.cs",
-              "RelativeDocumentMoniker": "MVCTask2\\Models\\User.cs",
-              "ToolTip": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Models\\User.cs",
-              "RelativeToolTip": "MVCTask2\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:29:24.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Views\\User\\Index.cshtml",
+              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCTask2\\Views\\User\\Index.cshtml",
-              "ToolTip": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\Index.cshtml",
               "RelativeToolTip": "MVCTask2\\Views\\User\\Index.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABgAAAA0AAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-29T10:32:08.992Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "MVCTask2\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Controllers\\UserController.cs",
-              "RelativeToolTip": "MVCTask2\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T10:23:32.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MVCTask2DBContext.cs",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Models\\MVCTask2DBContext.cs",
-              "RelativeDocumentMoniker": "MVCTask2\\Models\\MVCTask2DBContext.cs",
-              "ToolTip": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Models\\MVCTask2DBContext.cs",
-              "RelativeToolTip": "MVCTask2\\Models\\MVCTask2DBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:56:14.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Models\\UserRole.cs",
-              "RelativeDocumentMoniker": "MVCTask2\\Models\\UserRole.cs",
-              "ToolTip": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Models\\UserRole.cs",
-              "RelativeToolTip": "MVCTask2\\Models\\UserRole.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:40:53.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "MVCTask2\\Models\\Role.cs",
-              "ToolTip": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Models\\Role.cs",
-              "RelativeToolTip": "MVCTask2\\Models\\Role.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:40:29.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Post.cs",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Models\\Post.cs",
-              "RelativeDocumentMoniker": "MVCTask2\\Models\\Post.cs",
-              "ToolTip": "D:\\amira\\ITI Tasks\\MVCTask2\\MVCTask2\\Models\\Post.cs",
-              "RelativeToolTip": "MVCTask2\\Models\\Post.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T09:34:29.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dbo.Users [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KII5RFR/User/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-08-29T10:22:57.496Z"
             }
           ]
         }
