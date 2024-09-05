@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\amira\\ITI Tasks .net\\MVCTask2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\views\\user\\cookiesform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\user\\cookiesform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\views\\user\\getcookiesdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\user\\getcookiesdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\views\\post\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\post\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|d:\\amira\\iti tasks .net\\mvctask2\\mvctask2\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{877FC914-2BC6-4480-81A3-628132139F20}|MVCTask2\\MVCTask2.csproj|solutionrelative:mvctask2\\views\\post\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CookiesForm.cshtml",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\CookiesForm.cshtml",
-              "RelativeDocumentMoniker": "MVCTask2\\Views\\User\\CookiesForm.cshtml",
-              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\CookiesForm.cshtml",
-              "RelativeToolTip": "MVCTask2\\Views\\User\\CookiesForm.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\Post\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCTask2\\Views\\Post\\Edit.cshtml",
+              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\Post\\Edit.cshtml",
+              "RelativeToolTip": "MVCTask2\\Views\\Post\\Edit.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACQAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T10:24:15.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetCookiesData.cshtml",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\GetCookiesData.cshtml",
-              "RelativeDocumentMoniker": "MVCTask2\\Views\\User\\GetCookiesData.cshtml",
-              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\GetCookiesData.cshtml",
-              "RelativeToolTip": "MVCTask2\\Views\\User\\GetCookiesData.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-02T10:10:55.063Z",
+              "WhenOpened": "2024-09-05T11:53:21.8Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "MVCTask2\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Controllers\\UserController.cs",
-              "RelativeToolTip": "MVCTask2\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGcAAAAyAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCTask2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "MVCTask2\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T12:13:41.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCTask2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCTask2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:55:37.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "MVCTask2\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Controllers\\PostController.cs",
+              "RelativeToolTip": "MVCTask2\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAADgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T10:23:32.252Z",
+              "WhenOpened": "2024-09-05T11:53:58.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCTask2\\Views\\User\\Index.cshtml",
-              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\User\\Index.cshtml",
-              "RelativeToolTip": "MVCTask2\\Views\\User\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\Post\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVCTask2\\Views\\Post\\Add.cshtml",
+              "ToolTip": "D:\\amira\\ITI Tasks .net\\MVCTask2\\MVCTask2\\Views\\Post\\Add.cshtml",
+              "RelativeToolTip": "MVCTask2\\Views\\Post\\Add.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T10:32:08.992Z",
+              "WhenOpened": "2024-09-05T11:53:16.935Z",
               "EditorCaption": ""
             }
           ]

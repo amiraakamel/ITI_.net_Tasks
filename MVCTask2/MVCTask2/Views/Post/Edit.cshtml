@@ -1,0 +1,37 @@
+﻿@*
+    This is Edit Post Form
+*@
+@{
+    SelectList listItems = new SelectList(ViewBag.Users, "Id", "Name");
+}
+@model Post
+<form asp-action="Edit" method="post">
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label"></label>
+        <input class="form-control" asp-for="Title">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Category" class="form-label"></label>
+        <input class="form-control" asp-for="Category">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Body" class="form-label"></label>
+        <input class="form-control" asp-for="Body">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Likes" class="form-label"></label>
+        <input class="form-control" asp-for="Likes">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Share" class="form-label"></label>
+        <input class="form-control" asp-for="Share">
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="UserId"></label>
+        <select asp-for="UserId" asp-items="listItems">
+            <option value="" disabled selected>Choose one User</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <button asp-action="Index" asp-controller="Post" class="btn btn-primary">Back To All</button>
+</form>

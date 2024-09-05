@@ -1,0 +1,36 @@
+﻿@{
+    int x = 1;
+}
+@model List<Post>
+
+<a class="btn btn-success" asp-action="Add" asp-controller="Post">Add New Post</a>
+<table class="table table-hover table-warning">
+
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Category</th>
+            <th scope="col">User</th>
+            <th scope="col">Handle</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Post post in Model)
+        {
+            Dictionary<string, string> myData = new() { { "id", post.Id.ToString() } };
+        <tr>
+            <th scope="row">@(x++)</th>
+            <td>@post.Title</td>
+            <td>@post.Category</td>
+            <td>@ViewBag.UserNames[post.UserId]</td>
+            <td>
+                <a asp-controller="Post" asp-action="Details" asp-route-id="@post.Id">Details</a> |
+                <a asp-controller="Post" asp-action="Edit" asp-all-route-data="myData">Edit</a> |
+                <a asp-controller="Post" asp-action="Delete" asp-route-id="@post.Id">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+
+</table>

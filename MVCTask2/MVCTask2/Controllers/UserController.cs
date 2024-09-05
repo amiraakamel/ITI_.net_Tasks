@@ -50,20 +50,20 @@ namespace MVCTask2.Controllers
             return View(user);
         }
 
-        [HttpPost]
-        public IActionResult EditToDB(int id, string Name, int Age, string Email, string Password)
+        
+        public IActionResult EditToDB(User us)
         {
-            User? user = context.Users.SingleOrDefault(u => u.Id == id);
+            User? user = context.Users.SingleOrDefault(u => u.Id == us.Id);
 
             if (user == null)
             {
                 return Content("Invalid Id");
             }
 
-            user.Name = Name;
-            user.Age = Age;
-            user.Email = Email;
-            user.Password = Password;
+            user.Name = us.Name;
+            user.Age = us.Age;
+            user.Email = us.Email;
+            user.Password = us.Password;
 
             context.SaveChanges();
             TempData["Message"] = "User updated successfully.";
@@ -72,7 +72,7 @@ namespace MVCTask2.Controllers
 
         public IActionResult Delete(int id) 
         {
-            User? user = context.Users.SingleOrDefault(user=>user.Id == id);
+            User? user = context.Users.SingleOrDefault(u=>u.Id == id);
 
             if (user == null)
             {
@@ -85,26 +85,6 @@ namespace MVCTask2.Controllers
             return RedirectToAction("Index");
         }
 
-        public IActionResult CookiesForm()
-        {
-            return View();
-        }
 
-        public IActionResult SetCookiesData(string name , string email)
-        {
-
-            Response.Cookies.Append("Name",name);
-            Response.Cookies.Append("Email", email);
-
-            return RedirectToAction("GetCookiesData");
-        }
-
-        public IActionResult GetCookiesData()
-        {
-            string Name = Request.Cookies["Name"];
-            string Email = Request.Cookies["Email"];
-
-            return View(new {Name = Name ,Email = Email});
-        }
     }
 }

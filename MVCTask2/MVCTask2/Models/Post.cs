@@ -13,6 +13,7 @@ namespace MVCTask2.Models
         public int Likes { get; set; }
         public int Share { get; set; }
 
+        [Display(Name = "User")]
         [ForeignKey("User")]
         public int UserId { get; set; }
 

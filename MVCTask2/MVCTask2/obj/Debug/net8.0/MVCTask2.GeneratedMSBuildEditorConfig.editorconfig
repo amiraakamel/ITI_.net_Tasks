@@ -18,12 +18,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\amira\ITI Tasks .net\MVCTask2\MVCTask2
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/Account/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/Cookies/CookiesForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29va2llc1xDb29raWVzRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/Cookies/GetCookiesData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29va2llc1xHZXRDb29raWVzRGF0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/Post/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/Post/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/Post/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/Post/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/Shared/Error.cshtml]
@@ -38,20 +62,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGRGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/User/CookiesForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDb29raWVzRm9ybS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/User/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/User/EditForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0Rm9ybS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/User/GetCookiesData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxHZXRDb29raWVzRGF0YS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/amira/ITI Tasks .net/MVCTask2/MVCTask2/Views/User/Index.cshtml]
